@@ -1,6 +1,6 @@
 {
   "redirects": [
-    { "source": "/", "destination": "https://benborgers.com/posts/google-sheets-json" }
+    { "source": "/", "destination": "https://erickouassi.com/" }
   ],
   "rewrites": [
     { "source": "/:id/:sheet", "destination": "/api/index" }
